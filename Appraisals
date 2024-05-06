@@ -25,3 +25,8 @@ appraise "activesupport61" do
   gem "activesupport", "~> 6.1"
   gem "rake", "~> 13"
 end
+
+appraise "activesupport71" do
+  gem "activesupport", "~> 7.1"
+  gem "rake", "~> 13"
+end
