@@ -24,6 +24,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "appraisal", "~> 2.4"
   spec.add_development_dependency "stomp", "~> 1.4"
 
-  spec.add_runtime_dependency "activesupport", "~> 6.1"
+  spec.add_runtime_dependency "activesupport", "~> 7.1"
   spec.add_runtime_dependency "rake", "~> 13"
 end
